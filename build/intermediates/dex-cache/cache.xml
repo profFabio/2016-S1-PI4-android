@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\pre-dexed\debug\classes-5678654f8ed86de2a9b82dbdf5598326e15d831f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\pre-dexed\debug\classes-6f5504b0264e966e79e547922ba9aab790ebc3fd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabio\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0-4232f6348b06b77be202f6e6c0d697b068c12cc8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabio\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\pre-dexed\debug\okio-1.6.0-fad44fe6bf00c9968f7d17767e09692ed6e838aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabio\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1-c91c1c7b5a18763b2c727bbf1629da13b6e6eb96.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabio\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.6.1\b9d63507329a7178e026fc334f87587ee5070ac5\gson-2.6.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b9d63507329a7178e026fc334f87587ee5070ac5">
+        <dex dex="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\pre-dexed\debug\gson-2.6.1-ccb5886ea710ab12ef369798afcbd963d376a4f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\exploded-aar\com.jpardogo.materialtabstrip\library\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="611c7708cd3df0d7ae99105d4df5af8eb25c4b32">
+        <dex dex="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\pre-dexed\debug\classes-6bb22e062437cdbe7fb5d4e9c1c71465c0120182.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\pre-dexed\debug\classes-3781c94320d5c40e64ed54ff08a1ed7d41c8bda1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabio\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-gson\2.0.1\2780d858273ce1bb90f6b12e1ef0d40f7741fca\converter-gson-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
+        <dex dex="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\pre-dexed\debug\converter-gson-2.0.1-fcfb5d40d1637ff1b46c44eb166a029093890f6d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\pre-dexed\debug\classes-4104f75f1b42077d390f375113bd1785d1a2257b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\pre-dexed\debug\classes-fb4969e0d943d65e26252ec70d07ccfbf2b506df.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1-2c8f50df53d8688ca98bbe501f527815ebb718b9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\pre-dexed\debug\classes-1f9cc60c4118d3ba7fbfb64238d5768ab90bfd34.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabio\.gradle\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.1\27293c440d2085cde1d859528aff6e7d3b6ae40\retrofit-2.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="027293c440d2085cde1d859528aff6e7d3b6ae40">
+        <dex dex="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\pre-dexed\debug\retrofit-2.0.1-7ee2e12014c5509b270c838b7b6194106c1963fa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\exploded-aar\com.android.support\design\23.2.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="C:\Users\Fabio\AndroidStudioProjects\2016-S1-PI4-android\app\build\intermediates\pre-dexed\debug\classes-c16ddcdd1c3ae83f4c33befaf673c6f051532536.jar" />
+    </item>
+
+</items>
